@@ -1,0 +1,1 @@
+-- Tu powstaną nasze pierwsze tabele giełdowe
